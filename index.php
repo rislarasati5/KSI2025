@@ -29,7 +29,7 @@ $data = mysqli_query($koneksi, "SELECT * FROM mahasiswa");
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-success">
   <div class="container">
-    <a class="navbar-brand fw-bold" href="#">KSI2025</a>
+    <a class="navbar-brand fw-bold" href="#"> SI2025</a>
   </div>
 </nav>
 
