@@ -43,7 +43,7 @@ if (isset($_POST['submit'])) {
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-success">
   <div class="container d-flex justify-content-between align-items-center">
-    <a class="navbar-brand fw-bold" href="#">🌿 KSI2025</a>
+    <a class="navbar-brand fw-bold" href="#">KSI2025</a>
     <a href="index.php" class="btn btn-outline-light btn-sm">← Kembali</a>
   </div>
 </nav>
