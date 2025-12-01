@@ -6,7 +6,7 @@ pipeline {
         stage('Clone Repository') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/USERNAME/REPO.git'
+                    url: 'https://github.com/rislarasati5/KSI2025.git'
             }
         }
 
